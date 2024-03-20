@@ -17,11 +17,6 @@ we can perform various queries to determine things such as:
 
 # Screen Shots and Video
 
-## Video
-
-Go to this link, download it. You can watch a video of the app in action:
-https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov
-
 ## Landing (Pennsylvania selected by default)
 
 ![alt text](https://github.com/frisbeefish/mach9-bridges/blob/main/images/landing.png?raw=true)
@@ -45,3 +40,9 @@ https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.m
 ## Bridge Selected 2
 
 ![alt text](https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-selected-2.png?raw=true)
+
+## Video
+
+Go to this link, download it. You can watch a video of the app in action:
+
+<a href="https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov">Video Link</a>
