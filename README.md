@@ -19,7 +19,8 @@ we can perform various queries to determine things such as:
 
 ## Video
 
-![alt text](https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov?raw=true)
+Go to this link, download it. You can watch a video of the app in action:
+https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov
 
 ## Landing (Pennsylvania selected by default)
 
