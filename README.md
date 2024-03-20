@@ -45,4 +45,4 @@ we can perform various queries to determine things such as:
 
 Go to this link, download it. You can watch a video of the app in action:
 
-<a href="https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov" target="_blank">Video Link</a>
+<a href="https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov" target="blank">Video Link</a>
