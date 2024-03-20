@@ -19,6 +19,8 @@ we can perform various queries to determine things such as:
 
 ## Video
 
+<video src="https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov" width="1000" />
+
 ![alt text](https://github.com/frisbeefish/mach9-bridges/blob/main/images/bridge-inspector.mov?raw=true)
 
 ## Landing (Pennsylvania selected by default)
