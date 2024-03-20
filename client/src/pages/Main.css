@@ -1,0 +1,4 @@
+div.main {
+  position: relative;
+  padding-top: var(--heading-height);
+}

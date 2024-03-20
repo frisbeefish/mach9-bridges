@@ -1,0 +1,27 @@
+div.country-map {
+  padding: 10px;
+  width: 500px;
+  min-width: 500px;
+  background: #333;
+  background: #777;
+
+  h2 {
+    color: white;
+    font-size: 1.2em;
+    font-weight: normal;
+  }
+}
+
+path:hover,
+circle:hover {
+  stroke: #002868 !important;
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  fill: #ffceb5 !important;
+  cursor: pointer;
+}
+
+path.selected {
+  stroke: #002868 !important;
+  fill: #f73 !important;
+}

@@ -1,0 +1,5 @@
+div.page-body {
+  position: relative;
+  border: none;
+  height: calc(100vh - var(--heading-height));
+}
